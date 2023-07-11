@@ -1,1 +1,1 @@
-# Yelp PySpark Educational Project
+# NYC Taxi PySpark Educational Project
