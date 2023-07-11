@@ -1,1 +1,1 @@
-# yelp-spark-project
+# Yelp PySpark Educational Project
